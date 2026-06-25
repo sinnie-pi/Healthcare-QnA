@@ -136,7 +136,7 @@ experience these symptoms, consult a healthcare provider for a fasting
 glucose or HbA1c test [Source 2].
 ------------------------------------------------------------
 TOP SOURCES: What are the symptoms of type 2 diabetes?; How is type 2 diabetes diagnosed?
-ℹ️  This information is for educational purposes only ...
+
 ============================================================
 ```
 
