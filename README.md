@@ -101,11 +101,11 @@ python tests/evaluate_rag.py
 
 ```
 medquery_ai/
-├── .env.example          # Environment variable template
+├── .env         
 ├── requirements.txt
-├── main.py               # CLI entrypoint
+├── main.py               
 ├── data/
-│   └── medical_qa.csv    # 30-entry knowledge base (MedQuAD subset)
+│   └── medical_qa.csv    # (MedQuAD subset)
 ├── src/
 │   ├── config.py         # Environment + constants
 │   ├── llm.py            # OpenAI chat wrapper
